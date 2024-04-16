@@ -1,6 +1,6 @@
 [![](https://visitcount.itsvg.in/api?id=piyush-bit&icon=0&color=0)](https://visitcount.itsvg.in)
 # 💫 About Me:
-🔭 I’m currently working on Rock-Paper-Scissor<br>🌱 I’m currently learning WebSockets , Socket.io , Redis , PubSub Model<br>👯 I’m looking to collaborate on Ycourses<br>💬 Ask me about React , Backend System<br>👨‍💻 All of my projects are available at piyush-bit.netlify.app<br>📝 I regularly write articles on Will start soon<br>📄 Know about my experiences link<br>📫 How to reach me mr.piyush.cv@gmail.com<br>⚡ Fun fact Status code : 402
+🔭 I’m currently working on Rock-Paper-Scissor<br>🌱 I’m currently learning WebSockets , Socket.io , Redis , PubSub Model<br>👯 I’m looking to collaborate on Ycourses<br>💬 Ask me about React , Backend System<br>👨‍💻 All of my projects are available at piyush-bit.netlify.app<br>📝 I will regularly write articles on medium <br>📫 How to reach me mr.piyush.cv@gmail.com<br>⚡ Fun fact Status code : 402
 
 
 # 💻 Tech Stack:
