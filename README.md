@@ -16,12 +16,12 @@
 
 ## 🚧 Projects in Focus
 
-### 🔌 Go DNS Server
+### 🔌 Go Torrent Client (in progress)
 
-> Multi-threaded DNS proxy server in Go with caching and support for load balancing.  
-> Aiming to be educational and production-safe — great for learning internals!
+> Fully-featured BitTorrent client written in Go with support for magnet links, piece verification, and parallel peer connections.
+> Built for learning P2P protocols and networking internals while staying clean, efficient, and production-ready.
 
-[![View Project](https://img.shields.io/badge/GitHub-View_Project-0A84FF?style=for-the-badge&logo=github)](https://github.com/piyush-bit/go-dns-server)
+[![View Project](https://img.shields.io/badge/GitHub-View_Project-0A84FF?style=for-the-badge&logo=github)](https://github.com/piyush-bit/go-torrent-client)
 
 ---
 
